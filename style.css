@@ -1,0 +1,27 @@
+body{
+    padding: 100px;
+}
+.login-area{
+    padding: 40px;
+   margin-top: 50px;
+   border-radius: 10px;
+   box-shadow: 5px 5px 10px gray;
+}
+#trans{
+    display: none;
+}
+.deposite{
+background-color: lightcoral;
+}
+.withdraw{
+background-color: lightsalmon;
+}
+.balance{
+background-color: mediumpurple;
+}
+.forall{
+    border-radius: 10px;
+    margin: 0 10px;
+    color: white;
+    padding: 20px;
+}
